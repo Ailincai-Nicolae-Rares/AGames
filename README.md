@@ -1,11 +1,11 @@
 # Astro And Aliens
 
 ### Informations
-> Last version: 18.0 BETA
+> Current version: 18.0 BETA.
 
 > To play this game you need an account.
 
-> In BETA versions the users can't register an new account, for an account see `How to request an account`
+> In BETA versions users can't register an new account, for an account see `How to request an account`.
 
 ### Servers
 > [Discord Server](https://discord.gg/SWCt24M).
