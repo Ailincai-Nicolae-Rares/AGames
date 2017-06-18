@@ -5,7 +5,7 @@
 
 > To play this game you need an account.
 
-> In BETA versions users can't register an new account, for an account see `How to request an account`.
+> In BETA versions users can't register an new account, for an account see "[How to request an account](https://github.com/Ailincai-Nicolae-Rares/Astro-And-Aliens#how-to-request-an-account)".
 
 > This game have 1 Developer.
 
