@@ -7,6 +7,10 @@
 
 > In BETA versions users can't register an new account, for an account see `How to request an account`.
 
+> This game have 1 Developer.
+
+> The Developer is: Ailincai Nicolae Rares
+
 ### Servers
 > [Discord Server](https://discord.gg/SWCt24M).
 
