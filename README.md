@@ -5,7 +5,9 @@
 - [How to request an account](https://github.com/Ailincai-Nicolae-Rares/Astro-And-Aliens#how-to-request-an-account)
 
 ## Informations
-> Current version: 18.0 BETA.
+> Current game version: 18.0 BETA.
+
+> Current launcher version: 4.1.
 
 > To play this game you need an account.
 
@@ -16,7 +18,7 @@
 > The Developer is: Ailincai Nicolae Rares
 
 ## Servers
-> [Discord Server](https://discord.gg/SWCt24M).
+- [Discord Server](https://discord.gg/SWCt24M).
 
 ## How to request an account
 To request an account start the launcher and fallow the steps:
