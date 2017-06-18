@@ -1,6 +1,10 @@
 # Astro And Aliens
 
-### Informations
+- [Informations](https://github.com/Ailincai-Nicolae-Rares/Astro-And-Aliens#informations)
+- [Servers](https://github.com/Ailincai-Nicolae-Rares/Astro-And-Aliens#servers)
+- [How to request an account](https://github.com/Ailincai-Nicolae-Rares/Astro-And-Aliens#how-to-request-an-account)
+
+## Informations
 > Current version: 18.0 BETA.
 
 > To play this game you need an account.
@@ -11,10 +15,10 @@
 
 > The Developer is: Ailincai Nicolae Rares
 
-### Servers
+## Servers
 > [Discord Server](https://discord.gg/SWCt24M).
 
-### How to request an account
+## How to request an account
 To request an account start the launcher and fallow the steps:
 1. Go to `Report Bugs`
 2. Select `Request`
