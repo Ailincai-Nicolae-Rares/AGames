@@ -1,1 +1,2 @@
-*.rb linguist-language=C#
+Project Language/ linguist-documentation=false
+*.cs linguist-language=C#
