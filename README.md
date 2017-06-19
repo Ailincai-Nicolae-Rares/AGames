@@ -22,7 +22,7 @@
 #### Astro And Aliens Updates:
 - [Check Astro And Aliens Project](https://github.com/Ailincai-Nicolae-Rares/Astro-And-Aliens/projects/1)
 #### Launcher Updates:
-- [Check Astro And Aliens Launcher Projec](https://github.com/Ailincai-Nicolae-Rares/Astro-And-Aliens/projects/2)
+- [Check Astro And Aliens Launcher Project](https://github.com/Ailincai-Nicolae-Rares/Astro-And-Aliens/projects/2)
 
 ## Servers
 - [Discord Server](https://discord.gg/SWCt24M).
