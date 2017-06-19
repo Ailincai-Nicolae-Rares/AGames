@@ -1,6 +1,7 @@
 # Astro And Aliens
 
 - [Informations](https://github.com/Ailincai-Nicolae-Rares/Astro-And-Aliens#informations)
+- [Updates](https://github.com/Ailincai-Nicolae-Rares/Astro-And-Aliens#updates)
 - [Servers](https://github.com/Ailincai-Nicolae-Rares/Astro-And-Aliens#servers)
 - [How to request an account](https://github.com/Ailincai-Nicolae-Rares/Astro-And-Aliens#how-to-request-an-account)
 
@@ -16,6 +17,12 @@
 > This game have 1 Developer.
 
 > The Developer is: Ailincai Nicolae Rares
+
+## Updates
+#### Astro And Aliens Updates:
+- [Check Future Updates](https://github.com/Ailincai-Nicolae-Rares/Astro-And-Aliens/projects/1)
+#### Launcher Updates:
+- [Check Future Updates](https://github.com/Ailincai-Nicolae-Rares/Astro-And-Aliens/projects/2)
 
 ## Servers
 - [Discord Server](https://discord.gg/SWCt24M).
