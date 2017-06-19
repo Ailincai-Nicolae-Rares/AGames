@@ -21,7 +21,7 @@
 ## Updates
 #### Astro And Aliens Updates:
 - [Check Astro And Aliens Project](https://github.com/Ailincai-Nicolae-Rares/Astro-And-Aliens/projects/1)
-#### Launcher Updates:
+#### Astro And Aliens Launcher Updates:
 - [Check Astro And Aliens Launcher Project](https://github.com/Ailincai-Nicolae-Rares/Astro-And-Aliens/projects/2)
 
 ## Servers
