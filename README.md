@@ -8,10 +8,8 @@
 ## Informations
 > AGames is not released.
 
-## Updates
-#### AGames:
+## Projects
 - [AGames Project](https://github.com/Ailincai-Nicolae-Rares/AGames/projects/3)
-#### Astro And Aliens:
 - [Astro And Aliens Project](https://github.com/Ailincai-Nicolae-Rares/AGames/projects/1)
 
 ## Servers
