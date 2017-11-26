@@ -9,8 +9,10 @@
 > AGames is not released.
 
 ## Updates
+#### AGames:
+- [AGames Project](https://github.com/Ailincai-Nicolae-Rares/AGames/projects/3)
 #### Astro And Aliens:
-- [Check Astro And Aliens Project](https://github.com/Ailincai-Nicolae-Rares/AGames/projects/1)
+- [Astro And Aliens Project](https://github.com/Ailincai-Nicolae-Rares/AGames/projects/1)
 
 ## Servers
 - [Discord Server](https://discord.gg/dBUc67y).
@@ -24,6 +26,6 @@
 ## Informations
 > Current game version: 18.0 BETA.
 
-> The game will be again available on AGames.
+> The game will be available again on AGames.
 
 > Developer: Ailincai Nicolae Rares
