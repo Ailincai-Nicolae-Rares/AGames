@@ -6,15 +6,7 @@
 - [Games](#games)
 
 ## Informations
-> Current game version: 18.0 BETA.
-
-> The game will be again available on AGames.
-
-> To play this game you need an account.
-
-> This game have 1 Developer.
-
-> The Developer is: Ailincai Nicolae Rares
+> AGames is not released.
 
 ## Updates
 #### Astro And Aliens:
@@ -27,6 +19,7 @@
 
 - [Astro And Aliens](#astro-and-aliens)
 
+----
 # Astro And Aliens
 ## Informations
 > Current game version: 18.0 BETA.
