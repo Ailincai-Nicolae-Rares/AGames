@@ -3,6 +3,7 @@
 - [Informations](#informations)
 - [Updates](#updates)
 - [Servers](#servers)
+- [Games](#games)
 
 ## Informations
 > Current game version: 18.0 BETA.
@@ -16,7 +17,7 @@
 > The Developer is: Ailincai Nicolae Rares
 
 ## Updates
-#### Astro And Aliens Updates:
+#### Astro And Aliens:
 - [Check Astro And Aliens Project](https://github.com/Ailincai-Nicolae-Rares/AGames/projects/1)
 
 ## Servers
@@ -24,7 +25,7 @@
 
 ## Games
 
-
+- [Astro And Aliens](#astro-and-aliens)
 
 # Astro And Aliens
 ## Informations
