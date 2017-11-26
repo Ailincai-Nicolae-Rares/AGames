@@ -17,9 +17,19 @@
 
 ## Updates
 #### Astro And Aliens Updates:
-- [Check Astro And Aliens Project](https://github.com/Ailincai-Nicolae-Rares/Astro-And-Aliens/projects/1)
+- [Check Astro And Aliens Project](https://github.com/Ailincai-Nicolae-Rares/AGames/projects/1)
 
 ## Servers
 - [Discord Server](https://discord.gg/dBUc67y).
 
 ## Games
+
+
+
+# Astro And Aliens
+## Informations
+> Current game version: 18.0 BETA.
+
+> The game will be again available on AGames.
+
+> Developer: Ailincai Nicolae Rares
