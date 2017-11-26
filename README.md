@@ -1,8 +1,8 @@
-# Astro And Aliens
+# AGames
 
-- [Informations](https://github.com/Ailincai-Nicolae-Rares/Astro-And-Aliens#informations)
-- [Updates](https://github.com/Ailincai-Nicolae-Rares/Astro-And-Aliens#updates)
-- [Servers](https://github.com/Ailincai-Nicolae-Rares/Astro-And-Aliens#servers)
+- [Informations](#informations)
+- [Updates](#updates)
+- [Servers](#servers)
 
 ## Informations
 > Current game version: 18.0 BETA.
@@ -21,3 +21,5 @@
 
 ## Servers
 - [Discord Server](https://discord.gg/dBUc67y).
+
+## Games
