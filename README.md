@@ -9,8 +9,8 @@
 > AGames is not released.
 
 ## Projects
-- [AGames Project](https://github.com/Ailincai-Nicolae-Rares/AGames/projects/3)
-- [Astro And Aliens Project](https://github.com/Ailincai-Nicolae-Rares/AGames/projects/1)
+- [AGames Project](https://github.com/Ailincai-Nicolae-Rares/AGames/projects/3?fullscreen=true)
+- [Astro And Aliens Project](https://github.com/Ailincai-Nicolae-Rares/AGames/projects/1?fullscreen=true)
 
 ## Servers
 - [Discord Server](https://discord.gg/dBUc67y).
